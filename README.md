@@ -1,6 +1,6 @@
 # ActivityLivecycle
 
-![screenshot](https://github.com/Angganada/ActivityLivecycle/blob/master/live.PNG)
+![screenshot](https://github.com/Angganada/ActivityLivecycle/blob/master/activitylifecycle.jpg)
 
 ###Nama  : Anggana Duhita Apsari
 ###Kelas : XI R2
